@@ -4,7 +4,7 @@
 
 
 
-<img src="Memoji Avatar.png" alt="Memoji Avatar" style="zoom:50%;" />
+<center><img src="Memoji Avatar.png" alt="Memoji Avatar" style="zoom:50%;" /></center>
 
 <center> <p font-size="20px">
     王兆熠
